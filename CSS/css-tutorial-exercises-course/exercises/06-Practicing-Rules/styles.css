@@ -1,0 +1,19 @@
+body {
+	width: 580px;
+	background-image: url("http://assets.breatheco.de/apis/img/bg/background-vertical.jpg");
+	background-size: 100% 100%;
+}
+
+h1 {
+	color: red;
+	font-family: courier;
+}
+
+h2 {
+	text-decoration: underline;
+}
+
+#parrafo_1 {
+	padding-left: 20px;
+	background-color: rgba(0, 0, 0, 0.2);
+}
